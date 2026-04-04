@@ -1,6 +1,6 @@
 # ⚕ Hermes Incident Commander
 
-> **An autonomous SRE agent that detects, diagnoses, and heals production infrastructure — then learns from every incident it resolves.**
+> **An autonomous SRE agent that detects, diagnoses, and heals production infrastructure - then learns from every incident it resolves.**
 
 Built on [Hermes Agent](https://hermes-agent.nousresearch.com) by NousResearch.
 Submitted for the *"Show us what Hermes Agent can do"* challenge.
